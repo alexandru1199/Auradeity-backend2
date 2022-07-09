@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52ec2a9a-522d-4ef1-b700-9fcc9cf8964d": {
+      "ProjectGuid": "52ec2a9a-522d-4ef1-b700-9fcc9cf8964d",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 0
+    },
+    "95ad10fd-afc4-43c6-8763-4c00f2e10caf": {
+      "ProjectGuid": "95ad10fd-afc4-43c6-8763-4c00f2e10caf",
+      "DisplayName": "AuraDeity",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

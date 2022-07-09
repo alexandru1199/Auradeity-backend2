@@ -1,0 +1,12 @@
+C:\Academie\AuraDeity\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Academie\AuraDeity\Entities\bin\Debug\net6.0\Entities.dll
+C:\Academie\AuraDeity\Entities\bin\Debug\net6.0\ref\Entities.dll
+C:\Academie\AuraDeity\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.dll
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Academie\AuraDeity\Entities\obj\Debug\net6.0\Entities.pdb

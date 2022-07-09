@@ -1,0 +1,14 @@
+C:\Academie\AuraDeity\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Academie\AuraDeity\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Academie\AuraDeity\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Academie\AuraDeity\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Academie\AuraDeity\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Academie\AuraDeity\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache

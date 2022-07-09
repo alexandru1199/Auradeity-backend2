@@ -1,0 +1,8 @@
+﻿-- for creating a migration
+dotnet ef migrations add <MigrationName>
+
+-- for executing a migration
+dotnet ef database update
+
+-- for removing last migration
+dotnet ef migrations remove
