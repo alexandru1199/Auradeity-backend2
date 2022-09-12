@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\razvel\\.nuget\\packages\\": {}
+    "C:\\Users\\mamae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Academie\\AuraDeity\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Auradeity-backend\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Academie\\AuraDeity\\Models\\Models.csproj",
-      "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-      "outputPath": "C:\\Academie\\AuraDeity\\Models\\obj\\",
+      "projectPath": "C:\\Auradeity-backend\\Models\\Models.csproj",
+      "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+      "outputPath": "C:\\Auradeity-backend\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

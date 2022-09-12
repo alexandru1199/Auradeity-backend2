@@ -1,5 +1,5 @@
 ﻿-- for creating a migration
-dotnet ef migrations add <MigrationName>
+dotnet ef migrations add <MigrationName>/add-migration first
 
 -- for executing a migration
 dotnet ef database update

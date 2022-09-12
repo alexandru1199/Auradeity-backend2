@@ -30,7 +30,7 @@ namespace Logic.Commands
             try
             {
                 var userRegistered = await _auraDeityContext.UserAuths
-                    .AnyAsync(entity => entity.Email == entity.Email.Trim().ToLower());
+                    .AnyAsync(entity => entity.Email == signupModel.Email.Trim().ToLower());
 
                 if (userRegistered)
                 {

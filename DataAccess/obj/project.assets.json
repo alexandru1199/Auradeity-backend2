@@ -747,19 +747,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razvel\\.nuget\\packages\\": {}
+    "C:\\Users\\mamae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-      "outputPath": "C:\\Academie\\AuraDeity\\DataAccess\\obj\\",
+      "projectPath": "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+      "outputPath": "C:\\Auradeity-backend\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -829,7 +829,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

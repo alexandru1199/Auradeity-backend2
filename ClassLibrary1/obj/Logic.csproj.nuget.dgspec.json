@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Academie\\AuraDeity\\ClassLibrary1\\Logic.csproj": {}
+    "C:\\Auradeity-backend\\ClassLibrary1\\Logic.csproj": {}
   },
   "projects": {
-    "C:\\Academie\\AuraDeity\\ClassLibrary1\\Logic.csproj": {
+    "C:\\Auradeity-backend\\ClassLibrary1\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Academie\\AuraDeity\\ClassLibrary1\\Logic.csproj",
+        "projectUniqueName": "C:\\Auradeity-backend\\ClassLibrary1\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Academie\\AuraDeity\\ClassLibrary1\\Logic.csproj",
-        "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-        "outputPath": "C:\\Academie\\AuraDeity\\ClassLibrary1\\obj\\",
+        "projectPath": "C:\\Auradeity-backend\\ClassLibrary1\\Logic.csproj",
+        "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+        "outputPath": "C:\\Auradeity-backend\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj"
+              "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj"
+              "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.21.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -71,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj": {
+    "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-        "outputPath": "C:\\Academie\\AuraDeity\\DataAccess\\obj\\",
+        "projectPath": "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+        "outputPath": "C:\\Auradeity-backend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,21 +159,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj": {
+    "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj",
-        "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-        "outputPath": "C:\\Academie\\AuraDeity\\Interfaces\\obj\\",
+        "projectPath": "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+        "outputPath": "C:\\Auradeity-backend\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -183,8 +187,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Academie\\AuraDeity\\Models\\Models.csproj": {
-                "projectPath": "C:\\Academie\\AuraDeity\\Models\\Models.csproj"
+              "C:\\Auradeity-backend\\Models\\Models.csproj": {
+                "projectPath": "C:\\Auradeity-backend\\Models\\Models.csproj"
               }
             }
           }
@@ -213,21 +217,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Academie\\AuraDeity\\Models\\Models.csproj": {
+    "C:\\Auradeity-backend\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Academie\\AuraDeity\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Auradeity-backend\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Academie\\AuraDeity\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-        "outputPath": "C:\\Academie\\AuraDeity\\Models\\obj\\",
+        "projectPath": "C:\\Auradeity-backend\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+        "outputPath": "C:\\Auradeity-backend\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -267,7 +271,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

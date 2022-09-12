@@ -234,6 +234,15 @@
           "lib/net6.0/Microsoft.IdentityModel.Tokens.dll": {}
         }
       },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "Npgsql/6.0.5": {
         "type": "package",
         "dependencies": {
@@ -808,6 +817,33 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "Npgsql/6.0.5": {
       "sha512": "a11H5/b5yNTuFN0Ycjvb920oI6vQHadt6KhEMmcC7DfvsSHH8Z3wBam+CHmyWcfDxJJaxamcdBb8XA3BvqS4Kw==",
       "type": "package",
@@ -1023,23 +1059,24 @@
       "DataAccess >= 1.0.0",
       "Interfaces >= 1.0.0",
       "Microsoft.IdentityModel.Tokens >= 6.21.0",
+      "Newtonsoft.Json >= 13.0.1",
       "System.IdentityModel.Tokens.Jwt >= 6.21.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\razvel\\.nuget\\packages\\": {}
+    "C:\\Users\\mamae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Academie\\AuraDeity\\ClassLibrary1\\Logic.csproj",
+      "projectUniqueName": "C:\\Auradeity-backend\\ClassLibrary1\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Academie\\AuraDeity\\ClassLibrary1\\Logic.csproj",
-      "packagesPath": "C:\\Users\\razvel\\.nuget\\packages\\",
-      "outputPath": "C:\\Academie\\AuraDeity\\ClassLibrary1\\obj\\",
+      "projectPath": "C:\\Auradeity-backend\\ClassLibrary1\\Logic.csproj",
+      "packagesPath": "C:\\Users\\mamae\\.nuget\\packages\\",
+      "outputPath": "C:\\Auradeity-backend\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\razvel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mamae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1053,11 +1090,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Academie\\AuraDeity\\DataAccess\\DataAccess.csproj"
+            "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Auradeity-backend\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Academie\\AuraDeity\\Interfaces\\Interfaces.csproj"
+            "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Auradeity-backend\\Interfaces\\Interfaces.csproj"
             }
           }
         }
@@ -1075,6 +1112,10 @@
           "Microsoft.IdentityModel.Tokens": {
             "target": "Package",
             "version": "[6.21.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
           },
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
@@ -1096,7 +1137,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

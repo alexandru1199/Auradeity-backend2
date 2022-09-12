@@ -21,10 +21,12 @@ builder.Services.AddDbContext<AuraDeityContext>(dbOptions =>
 {
     dbOptions.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 builder.Services.AddScoped<IAuthenticationCommand, AuthenticationCommand>();
 builder.Services.AddScoped<IAuthenticationQuery, AuthenticationQuery>();
 builder.Services.AddScoped<IJwtQueryService, JwtQueryService>();
+builder.Services.AddScoped<IWeatherAPI,WeatherAPI>();
+
 
 builder.Services.AddCors(options =>
 {

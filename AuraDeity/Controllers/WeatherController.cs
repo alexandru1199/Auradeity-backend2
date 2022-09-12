@@ -21,6 +21,7 @@ namespace AuraDeity.Controllers
         /// <param name="weatherSearchDto">The weatherSearchDto.</param>
         /// <returns>Returns the weather data response.</returns>
         [HttpPost("current")]
+
         public async Task<IActionResult> GetCurrentWeatherData(WeatherSearchDto weatherSearchDto)
         {
             var weather = await WeatherAPI.GetWeatherDataByCity(weatherSearchDto.City);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoN+PZcoqwNhsPakcALiigZvQMryMsLHz4ZHD84avTbCVCtlp3/bXkHWxYujVf9dVMZ8gOhBAdOmCNqbJlbLtw==",
+  "dgSpecHash": "4x7ttO7zqARrB/WRLPRhFvgl4/igyVWQO0Vw7SB/j4Jeash5P/Q5hlXfp6VN9cz3WM+Jtc9TCsGxEYbH8LCaNw==",
   "success": true,
-  "projectFilePath": "C:\\Academie\\AuraDeity\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Auradeity-backend\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

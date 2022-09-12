@@ -37,6 +37,7 @@ namespace AuraDeity.Controllers
         public async Task<IActionResult> Signup([FromBody] SignupModel signupModel)
         {
             var processResult = await _authenticationCommand.SignUpAsync(signupModel);
+            Console.WriteLine(processResult);
 
             if (string.IsNullOrEmpty(processResult))
             {
